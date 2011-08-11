@@ -4,5 +4,5 @@ export SVN_EDITOR='vim'
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
 
-PATH=$PATH:/opt/local/bin:/opt/local/sbin
+PATH=$PATH:/opt/local/bin:/opt/local/sbin:/usr/local/lib
 export PATH
